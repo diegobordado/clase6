@@ -1,0 +1,65 @@
+h1{
+    color: black;
+    font-size: 80px;
+    background-color: chocolate;
+}
+.miclase{
+    font-size: 20px;
+    
+    color: black;
+    background-color:greenyellow
+}
+ul{
+    width: 14%;
+    list-style-image:url(/img/icono2.png)
+    
+    
+    
+
+
+    
+    
+    
+}
+h2{
+
+    font-size: 40px;
+        background-color: greenyellow;
+        width:40%
+}
+
+
+
+OL{
+    color: black;
+    font-size: 14px;
+    background-color: greenyellow;
+    width: 20%;
+}
+div{                              
+    font-size: 14px;
+    font-family: cursive;
+}
+p{
+    background-color: yellowgreen;
+}
+
+footer{
+    color: rgb(234, 241, 241);
+    font-size: 14px;
+    background-color: darkgreen;
+    border: solid 5px black;
+}
+.TITULO{
+    text-align: center;
+}
+
+    
+
+
+    
+
+
+    
+
+
