@@ -1,2 +1,2 @@
 # clase6
-clase6css
+esto es un proyecto la clase num 6
